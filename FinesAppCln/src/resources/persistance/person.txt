@@ -1,0 +1,8 @@
+{"person": {
+    "cedula": "1007751371",
+    "fineList": [{
+        "description": "Ebriedad",
+        "place": "232,234"
+    }],
+    "name": "Carlos"
+}}

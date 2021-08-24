@@ -1,0 +1,6 @@
+{"fine": {
+    "cedula": "1007751371",
+    "name": "Carlos",
+    "description": "Ebriedad",
+    "place": "232,234"
+}}

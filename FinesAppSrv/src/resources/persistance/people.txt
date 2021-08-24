@@ -1,0 +1,19 @@
+{"peopleList": [
+    {
+        "cedula": "1007751371",
+        "fineList": [{
+            "evidency": "1007751371Ebriedad232,234.png",
+            "description": "Ebriedad",
+            "place": "232,234"
+        }],
+        "name": "Carlos"
+    },
+    {
+        "cedula": "4665465123",
+        "fineList": [{
+            "description": "Llantaslisas",
+            "place": "45,233"
+        }],
+        "name": "Sergio"
+    }
+]}
